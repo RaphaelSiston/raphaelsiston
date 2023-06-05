@@ -1,6 +1,6 @@
 ### Olá ! Seja bem vindo ao meu Github. 
 
-✔ Sou um Profissional de TI com uma caminhada de 6 anos na área de tecnologia e atualmente estou migrando para área de DevOps. 
+✔ Profissional de TI com uma caminhada de 6 anos na área de tecnologia e atualmente estou migrando para área de DevOps.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelsiston)
 
@@ -8,6 +8,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
